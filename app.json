@@ -14,7 +14,7 @@
             "required": true
         },
         "MONGODB_URL": {
-            "description": "Put Mongodb Database Url for Run Bot",
+            "description": "mongodb+srv://mateochatbot:xdtL2bYQ9eV3CeXM@gerald.r2hjy.mongodb.net/",
             "required": true
         }
     },

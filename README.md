@@ -89,7 +89,7 @@ pkg install libwebp
 pkg install git -y
 pkg install nodejs -y 
 pkg install imagemagick -y
-git clone https://github.com/darkmakerofc/QueenElisa
+git clone https://github.com/Mateo-Chatbot/QueenElisa
 cd Queen-Elisa-Md
 npm install
 npm start

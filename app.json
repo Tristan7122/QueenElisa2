@@ -10,7 +10,7 @@
     ],
     "env": {
         "SESSION_ID": {
-            "description": "Get using Scan QR Code or Using Pair code.",
+            "description": "QUEENELISA;;;==wdwF3dVZzblRTUkVVcDp1bpZWb5IHbrFnSjFzTiFjexpXQtQkU6NzQiZnQjk1QLFjMWJFZpwd=7962661218432",
             "required": true
         },
         "MONGODB_URL": {

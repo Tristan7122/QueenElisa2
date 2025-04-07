@@ -3,7 +3,7 @@ const chalk = require('chalk')
 
 module.exports = {
   SESSION_ID: 'QUEENELISA;;;==wc1Fjdx1WSEhkTygGRt9USkZlc3V1TQNTVmNnbF1SdHNzYQl0R4g0QzcDUjkkeBx2d0F0apwd=7962661218432',
-  ALIVE_REACT: '🤖',
+  ALIVE_REACT: '👋',
   ALIVE_MESSAGE: `*Hello @name [ And @gname @members Number of Members ] I am Alive Now !*
 
 ⏰ Now time is @time
@@ -18,22 +18,22 @@ module.exports = {
 ☫ Work Type : @worktype`,
   ALIVE_MEDIA: 'https://telegra.ph/file/d842677f522b6bef4dfe6.jpg',
   MONGODB_URL: 'mongodb+srv://mateochatbot:xdtL2bYQ9eV3CeXM@gerald.r2hjy.mongodb.net/', 
-  PREFIX: '/',
+  PREFIX: '.',
   LANGUAGE: 'EN',
   PORT: 3000,
-  BOT_NAME: '𝗠𝗔𝗧𝗘𝗢 𝗖𝗛𝗔𝗧𝗕𝗢𝗧 ( 𝙻𝚃𝙳 )',
-  OWNER_NAME: 'Gerald',
-  OWNER_NUMBER: '2348121662697',
-  SUDO: '94715166712',
+  BOT_NAME: 'QueenElisa👸',
+  OWNER_NAME: 'Tristan',
+  OWNER_NUMBER: '27634624586',
+  SUDO: '27734887674',
   WORK_TYPE: 'public',
   WORK_MODE: 'group',
-  TIME_ZONE: 'Africa/Lagos',
-  CAPTION: '© Gerald',
-  STICKER_AUTHOR: 'gerald',
-  STICKER_PACK: 'ᴍʀ ɴɪᴍᴀ ᴏꜰᴄ',
+  TIME_ZONE: 'Africa/johannesburg',
+  CAPTION: '',
+  STICKER_AUTHOR: 'Elisa',
+  STICKER_PACK: 'TRISTAN🫆',
   REMOVE_BG_APIKEY: '',
-  MAXIMUM_FILESIZE: 90,
-  OWNER_R_EMOJI: '❤️',
+  MAXIMUM_FILESIZE: 900,
+  OWNER_R_EMOJI: '✨',
   ALIVE_AS_GIF: true,
   AUTO_VOICE: false,
   INBOX_BLOCK: true,
@@ -65,10 +65,10 @@ module.exports = {
     BANED_MSG: "@user You Can't use bot, You are baned by owner!",
     GROUP_LEAVE: '👋 Bye @groupName I am Going.',
     INBOX_BLOCK:
-      '❌ My owner has activated auto inbox blocking. So you will be auto blocked after 8 seconds'
+      '❌ You messaged me without My owner(+27634624586) permission,i am going to automatically block you after 8 seconds..BYE MYlove💋❤️'
   },
   BOT_RULES:
-    "*⚖️ 𝙱𝙾𝚃 𝚁𝚄𝙻𝙴𝚂 ⚖️*\n\n☫ Don't spam messages.\n☫ Don't add groups without asking owner.\n"
+    "*⚖️ 𝙱𝙾𝚃 𝚁𝚄𝙻𝙴𝚂 ⚖️*\n\n☫ Don't spam messages.\n☫ Don't add me in groups without asking owner(+27634624586).\n"
 }
 
 let file = require.resolve(__filename)
